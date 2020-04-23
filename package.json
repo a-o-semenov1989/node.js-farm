@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-o-semenov1989/node.js-farm.git"
+  },
+  "author": "Anatolii Semenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-o-semenov1989/node.js-farm/issues"
+  },
+  "homepage": "https://github.com/a-o-semenov1989/node.js-farm#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
